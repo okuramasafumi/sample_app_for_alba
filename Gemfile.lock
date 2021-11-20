@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/okuramasafumi/alba.git
-  revision: 12a710e858ccc78d2d841c89861171fb7857be95
-  branch: layout
+  revision: 5c439ef959716a1fdabdb97dd72190921350c753
+  branch: main
   specs:
     alba (1.4.0)
 
